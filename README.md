@@ -2,6 +2,10 @@
 
 I'm a software Engineering major @ UCI
 
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,nextjs,postgresql,git,github,vscode"/>
+
 
 
 <!--
