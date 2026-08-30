@@ -1,24 +1,14 @@
 ## Hi there!
 
-I'm a software Engineering major @ UCI
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&repeat=false&random=false&width=1300&height=70&lines=I'm a software Engineering major @ UCI" width="70%"/>
 
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,python,ts,nextjs,postgresql,git,github,vscode"/>
+<br>
 
 
 
-<!--
-**qvu50015/qvu50015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
